@@ -59,11 +59,7 @@ espacio de nombres AppCons_test2
 			}
 			Consola.WriteLine( $ " Número de elementos: { contador } ");
 			Consola.WriteLine(" Pulse una tecla para continuar ... ");
-			//Consola.ReadKey();
-
-			// Desde repositorio remoto como compartir su proyecto con el decente
-			// kleberposligua@hotmail.com
-			// Crar Manual de GitHub
+		/Consola.ReadKey()/ Desde repositorio /re
 		}
 	}
 }
